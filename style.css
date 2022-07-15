@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+.navbar-nav li{
+    padding: 10px;
+    margin-right: 1em;
+}
+.navbar-nav li:hover{
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: white;
+    border: 1px solid pink;
+}
+h1{
+    border-bottom: dotted 25px #f1380af1;
+    color: #f1380af1;
+    text-align: center;
+    font-size: bolder;
+}
+
+
+@media screen and (max-width=575px) {
+
+
+    
+}
